@@ -1,9 +1,9 @@
 from datetime import datetime
 
 def build_report():
-today = datetime.utcnow().strftime("%Y-%m-%d")
+    today = datetime.utcnow().strftime("%Y-%m-%d")
 
-report = f"""
+    report = f"""
 Subject: Daily Foreign Trade Brief | {today}
 
 Good morning, Chen,
@@ -87,16 +87,20 @@ Best regards,
 ==================================================
 1. Follow up with silent quoted customers using a market-update angle
 2. Review Europe-focused products for compliance / energy-efficiency messaging
-Prioritize prospects in retail, chain-store, hospitality, and foodservice sectors
-Watch for opportunities to connect product news with customer-specific needs
-==================================================7. Holiday / Human-touch Reminder
-Check whether today or this week contains any important holidays in Europe or North America
-If yes, adjust outreach timing
-Add short human-touch messages where appropriate
+3.Prioritize prospects in retail, chain-store, hospitality, and foodservice sectors
+4.Watch for opportunities to connect product news with customer-specific needs
+
+==================================================
+7. Holiday / Human-touch Reminder
+==================================================
+- Check whether today or this week contains any important holidays in Europe or North America
+- If yes, adjust outreach timing
+- Add short human-touch messages where appropriate
+
 Regards,
 Your Foreign Trade Intelligence Assistant
-"""
-return report.strip()
+    """
+    return report.strip()
 
-if name == "main":
-print(build_report())
+if_name_== "_main_":
+    print(build_report())
