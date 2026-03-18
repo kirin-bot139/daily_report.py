@@ -87,7 +87,7 @@ Best regards,
 ==================================================
 1. Follow up with silent quoted customers using a market-update angle
 2. Review Europe-focused products for compliance / energy-efficiency messaging
-3. Prioritize prospects in retail, chain-store, hospitality, and foodservice sectors
+Prioritize prospects in retail, chain-store, hospitality, and foodservice sectors
 Watch for opportunities to connect product news with customer-specific needs
 ==================================================7. Holiday / Human-touch Reminder
 Check whether today or this week contains any important holidays in Europe or North America
